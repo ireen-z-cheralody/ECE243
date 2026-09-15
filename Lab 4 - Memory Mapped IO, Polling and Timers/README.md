@@ -1,4 +1,4 @@
-# ECE243 Lab — Timers, Polling & Binary Clock
+# ECE243 Lab 4
 
 This repository contains my work for an **ECE243 lab** focused on **Nios V Assembly Language**, polling I/O, pushbuttons, hardware timers, and real-time LED displays on the **DE1-SoC**.
 
