@@ -1,4 +1,4 @@
-# ECE243 Lab — C Programming & Audio I/O
+# ECE243 Lab 6
 
 This repository contains my work for an **ECE243 lab** focused on **C programming, memory-mapped I/O, polling, and audio processing** on the DE1-SoC.
 
