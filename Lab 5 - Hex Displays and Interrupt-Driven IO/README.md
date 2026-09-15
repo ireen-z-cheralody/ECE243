@@ -1,4 +1,4 @@
-# ECE243 Lab — Interrupts & I/O
+# ECE243 Lab 5
 
 This repository contains my work for an **ECE243 lab** focused on **Nios V Assembly Language**, interrupt-driven I/O, hardware timers, and the DE1-SoC displays.
 
