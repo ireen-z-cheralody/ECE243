@@ -1,4 +1,4 @@
-# ECE243 Lab — VGA Graphics & Animation
+# ECE243 Lab 7
 
 This repository contains my work for an **ECE243 lab** focused on **C programming, VGA graphics, line drawing, frame buffers, and animation** on the DE1-SoC.
 
