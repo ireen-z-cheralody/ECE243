@@ -1,4 +1,4 @@
-# ECE243 Lab 1, Part III: First Assembly Language Program
+# ECE243 Lab 1
 
 This repository contains my solution for **Part III of the ECE243 Lab 1**, where I wrote and tested my first **Nios V Assembly Language** program.
 
