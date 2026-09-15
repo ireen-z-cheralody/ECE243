@@ -19,11 +19,7 @@ The program was developed and tested using **CPULator**, with single-stepping us
 
 ## Expected Result
 
-The final value stored in register `s1` is:
-
-```text
-465
-```
+The final value stored in register `s1` is: 465.
 
 ## File
 
