@@ -1,4 +1,4 @@
-# ECE243 Lab — Assembly Subroutines & Bit Counting
+# ECE243 Lab 3
 
 This repository contains my work for an **ECE243 lab** focused on **Nios V Assembly Language**, subroutines, bit manipulation, and hardware I/O.
 
