@@ -22,4 +22,4 @@ Each folder contains the code and files for an individual ECE243 lab.
 ## Author
 
 **Ireen Cheralody**  
-University of Toronto — Computer Engineering
+University of Toronto — Computer Engineering + PEY Co-op
